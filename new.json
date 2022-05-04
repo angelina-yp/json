@@ -1,6 +1,9 @@
+
 {
- "p1":"Alex",
-  "p2":"Alina" 
+"name":"Angelina",
+"age":"30",
+	 "animal":"0",
+	 "money":"1000"
 
 }
 
