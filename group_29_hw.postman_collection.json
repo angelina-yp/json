@@ -113,7 +113,7 @@
 					]
 				},
 				"url": {
-					"raw": "162.55.220.72:5005/object_info_1?name=str&age=int&weight=2000",
+					"raw": "162.55.220.72:5005/object_info_1?name=str&age=543&weight=545",
 					"host": [
 						"162",
 						"55",
@@ -131,11 +131,11 @@
 						},
 						{
 							"key": "age",
-							"value": "int"
+							"value": "543"
 						},
 						{
 							"key": "weight",
-							"value": "2000"
+							"value": "545"
 						}
 					]
 				}
@@ -160,18 +160,18 @@
 						},
 						{
 							"key": "age",
-							"value": "int",
+							"value": "6",
 							"type": "default"
 						},
 						{
 							"key": "salary",
-							"value": "2000",
+							"value": "20",
 							"type": "default"
 						}
 					]
 				},
 				"url": {
-					"raw": "162.55.220.72:5005/object_info_2?name=str&age=int&salary=int",
+					"raw": "162.55.220.72:5005/object_info_2?name=str&age=54&salary=2132",
 					"host": [
 						"162",
 						"55",
@@ -189,11 +189,11 @@
 						},
 						{
 							"key": "age",
-							"value": "int"
+							"value": "54"
 						},
 						{
 							"key": "salary",
-							"value": "int"
+							"value": "2132"
 						}
 					]
 				}
@@ -229,7 +229,7 @@
 					]
 				},
 				"url": {
-					"raw": "162.55.220.72:5005/object_info_3?name=str&age=int&salary=int",
+					"raw": "162.55.220.72:5005/object_info_3?name=str&age=30&salary=200",
 					"host": [
 						"162",
 						"55",
@@ -247,11 +247,11 @@
 						},
 						{
 							"key": "age",
-							"value": "int"
+							"value": "30"
 						},
 						{
 							"key": "salary",
-							"value": "int"
+							"value": "200"
 						}
 					]
 				}
@@ -276,12 +276,12 @@
 						},
 						{
 							"key": "age",
-							"value": "int",
+							"value": "52",
 							"type": "default"
 						},
 						{
 							"key": "salary",
-							"value": "int",
+							"value": "42",
 							"type": "default"
 						}
 					]
@@ -334,12 +334,12 @@
 						},
 						{
 							"key": "age",
-							"value": "int",
+							"value": "424",
 							"type": "default"
 						},
 						{
 							"key": "salary",
-							"value": "int",
+							"value": "525",
 							"type": "default"
 						}
 					]
