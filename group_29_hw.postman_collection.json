@@ -56,7 +56,7 @@
 						},
 						{
 							"key": "salary",
-							"value": "int",
+							"value": "2000",
 							"type": "default"
 						}
 					]
@@ -113,7 +113,7 @@
 					]
 				},
 				"url": {
-					"raw": "162.55.220.72:5005/object_info_1?name=str&age=int&weight=int",
+					"raw": "162.55.220.72:5005/object_info_1?name=str&age=int&weight=2000",
 					"host": [
 						"162",
 						"55",
@@ -135,7 +135,7 @@
 						},
 						{
 							"key": "weight",
-							"value": "int"
+							"value": "2000"
 						}
 					]
 				}
@@ -165,7 +165,7 @@
 						},
 						{
 							"key": "salary",
-							"value": "int",
+							"value": "2000",
 							"type": "default"
 						}
 					]
